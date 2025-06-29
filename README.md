@@ -25,4 +25,9 @@ An intelligent, ML-powered **college predictor chatbot** built with **Flask** th
 ---
 
 ## 🏗️ Folder Structure
+college_predictor/
+├── app.py
+├── combined_lopenh_cutoffs.csv
+├── templates/
+│ └── index.html
 
